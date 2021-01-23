@@ -1,5 +1,5 @@
 # Animação - Indicador de atividade
-Projeto com a finalidade de treinar habilidades relativa a linguagem CSS.
+Projeto com a finalidade de treinar habilidades relativas a linguagem CSS.
 
 ## Layout
 <img src="./imagens/indicador.gif" alt= "gif indicador de atividade">     
